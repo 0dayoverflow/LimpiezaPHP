@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+.btnsCRUD{
+    align-items: center;
+    flex: center;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-image: url(3d_low_poly_wallpaper_by_shane3133_dcg5951.png);
+    background-repeat: no-repeat;
+    
+    
+}
