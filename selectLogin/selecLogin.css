@@ -1,0 +1,41 @@
+#btnAdmin{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    display: block;
+    margin: auto;
+
+    
+    
+
+
+}
+
+#btnUser{  
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    margin: auto;
+    vertical-align: middle;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
+
+body {
+    background-image: url(blue_polygonal_background_by_roberis_d9o4oql.jpg);
+    background-repeat: no-repeat;
+    
+    
+}
